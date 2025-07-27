@@ -12,4 +12,4 @@ I made text2hex, work on tons of stuff daily, and im just made of code.
 byeeeeee
 
 # socials
-linktree: https://linktree.com/butter___
+(linktree)[https://linktr.ee/butter___]
