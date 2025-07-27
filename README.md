@@ -8,3 +8,8 @@ I made text2hex, work on tons of stuff daily, and im just made of code.
 
 
 # bye
+
+byeeeeee
+
+# socials
+linktree: https://linktree.com/butter___
