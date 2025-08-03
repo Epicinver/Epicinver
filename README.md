@@ -19,7 +19,7 @@ byeeeeee
 # github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=epicinver)](https://github.com/ryo-ma/github-profile-trophy)
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=epicinver&show_icons=true&theme=tokyonight&hide=["issues"])
+![epicinver](https://github-readme-stats.vercel.app/api?username=epicinver&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=epicinver&show_icons=true&theme=tokyonight&layout=compact)
+![epicinver](https://github-readme-stats.vercel.app/api/top-langs?username=epicinver&show_icons=true&theme=tokyonight&layout=compact)
 
