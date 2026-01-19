@@ -1,12 +1,12 @@
 # Heya!
-I know how to code so that's a flex ig
+I know how to code ig
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=print("Hello%20World"))](https://git.io/typing-svg)
 
 # what i do
 
-I made text2hex, work on tons of stuff daily, and im just made of code.
+idk
 
 
 # bye
