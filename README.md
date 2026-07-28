@@ -1,9 +1,14 @@
-# im arran
-wtf else do u need to know?
+* - \Sudo |Ins-t-all| Opsex/ - *
+ 
+
+tuff
+
+========================================
 
 
-NOT an arch user 
-python diddler
-c++ is shit
-
-and thats all
+my top 5 fav lang
+1. pyt
+2. go
+3. c#
+4. js
+5. java
